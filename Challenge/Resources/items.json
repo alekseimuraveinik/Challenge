@@ -1,0 +1,38 @@
+[
+    {
+        "id":"FzABE2zP35oKRNe3mNqT",
+        "type": "exercise",
+        "title": "Towel Curls",
+        "desc": "Stand in an upright position. Grab the towel and hinge at your hips as you pull towards the platform. Use your foot at the bottom of the platform for more resistance."
+    },
+    {
+        "id":"xAuhumjG35XmcsLBmeA1",
+        "type": "video",
+        "title": "15 Min Yoga Flow",
+        "desc": "In this flow Savannah takes you through some beginner movements focusing on balance and tranquility."
+    },
+    {
+        "id":"TqvxLCRxiUPtqCxZTqKE",
+        "type": "meal",
+        "title": "Oatmeal Smoothie",
+        "desc": "This delicious, smooth recipe quench your taste for something savory yet filling. Made in just a couple of minutes, you'll love this simple smoothie recipe. Dairy-free, vegan. High in fiber, protein and omega-6 fatty acids."
+    },
+    {
+        "id":"7VivCxSu7omtkISZ4wM0",
+        "type": "workout",
+        "title": "Superman shoulders",
+        "desc": "Keep that form tight! Prepare for a workout that will take your shoulder gains out of this world."
+    },
+    {
+        "id":"XHG6FxhK2IE3w450gChl",
+        "type": "meal",
+        "title": "Roasted Chickpeas",
+        "desc": "These slightly honeyed and fiery toasted chickpeas are a delicious dairy and gluten-free side. The chickpeas become browned and crisp in the oven, and the mouthwatering flavor will have you coming back for another handful."
+    },
+    {
+        "id":"8hHTAyKEEfGxTlbgZN3t",
+        "type": "video",
+        "title": "Breathing Technique",
+        "desc": "Before bed mastering your breathwork is critical, in this video Georgie walks you through a couple things you can do to get your body ready for deep sleep"
+    }
+]
